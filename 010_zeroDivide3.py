@@ -8,3 +8,8 @@ try:
     print(spam(1))
 except ZeroDivisionError:
     print('Error: Invalid argument.')
+
+# Running result:
+# 21.0
+# 3.5
+# Error: Invalid argument.
