@@ -1,0 +1,3 @@
+# Learning_with_Python
+Notes and codes in learning Python
+学习Python时的代码练习……
