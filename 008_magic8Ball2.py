@@ -26,3 +26,10 @@ def getAnswer(answerNumber):  # 定义getAnswer函数
                         # 程序返回到getAnswer()，返回的字符串赋予fortune变量
 # print(fortune)
 print(getAnswer(random.randint(1, 9)))  # 将返回值作为参数传递给getAnswer()调用
+
+# Running result:
+# Reply hazy try again
+# Running result:
+# Very doubtful
+# Running result:
+# It is decidely so

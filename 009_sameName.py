@@ -11,3 +11,9 @@ def bacon():
 eggs = 'glocal'
 bacon()
 print(eggs)  # prints 'global'
+
+# Running result:
+# bacon local
+# spam local
+# bacon local
+# glocal

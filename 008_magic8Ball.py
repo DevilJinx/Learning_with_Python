@@ -25,3 +25,10 @@ fortune = getAnswer(r)  # 调用getAnswer函数，参数为r，
                         # r的值保存到answerNumber变量中
                         # 程序返回到getAnswer()，返回的字符串赋予fortune变量
 print(fortune)
+
+# Running result:
+# Ask again later
+# Running result:
+# Yes
+# Running result:
+# Concentrate and ask again

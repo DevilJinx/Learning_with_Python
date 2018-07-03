@@ -6,3 +6,14 @@ def hello():
 hello()
 hello()
 hello()
+
+# Running result:
+# Howdy!
+# Howdy!!!
+# Hello there.
+# Howdy!
+# Howdy!!!
+# Hello there.
+# Howdy!
+# Howdy!!!
+# Hello there.
