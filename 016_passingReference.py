@@ -6,3 +6,4 @@ eggs(spam)
 print(spam)
 
 # Running result:
+# [1, 2, 3, 'Hello']
